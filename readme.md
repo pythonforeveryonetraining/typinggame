@@ -5,3 +5,5 @@
 https://youtu.be/kjkHmbbSg1o
 
 ## Preview
+
+![Preview](https://github.com/pythonforeveryonetraining/typinggame/blob/main/preview.gif)
